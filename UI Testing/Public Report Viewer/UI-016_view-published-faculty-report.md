@@ -1,4 +1,4 @@
-# TC-PUB-002: View published faculty report
+# UI-016: View published faculty report
 
 Summary: Public users can filter reports by campus, faculty, and semester
 

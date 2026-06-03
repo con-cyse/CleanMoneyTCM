@@ -1,4 +1,4 @@
-# TC-SEC-001: Enforce organization data isolation
+# SEC-006: Enforce organization data isolation
 
 Summary: Users must only access data for their assigned campus or faculty
 

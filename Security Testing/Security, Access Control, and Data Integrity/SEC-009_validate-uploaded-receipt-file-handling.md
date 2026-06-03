@@ -1,4 +1,4 @@
-# TC-SEC-004: Validate uploaded receipt file handling
+# SEC-009: Validate uploaded receipt file handling
 
 Summary: Receipt uploads must preserve data integrity and reject unsafe inputs
 

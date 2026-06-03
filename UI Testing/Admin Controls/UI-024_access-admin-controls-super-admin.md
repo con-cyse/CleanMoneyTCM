@@ -1,4 +1,4 @@
-# TC-ADM-001: Access admin controls as super-admin
+# UI-024: Access admin controls as super-admin
 
 Summary: Super-admin users can manage semester and accounts
 

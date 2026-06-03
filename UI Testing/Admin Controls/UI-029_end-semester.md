@@ -1,4 +1,4 @@
-# TC-ADM-006: End semester
+# UI-029: End semester
 
 Summary: Super-admin can close a semester and prevent further edits
 

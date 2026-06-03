@@ -1,4 +1,4 @@
-# TC-SEC-006: Record activity logs for sensitive actions
+# SEC-011: Record activity logs for sensitive actions
 
 Summary: Important financial and administrative actions are auditable
 

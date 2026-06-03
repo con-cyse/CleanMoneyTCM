@@ -1,4 +1,4 @@
-# TC-ARC-001: List published reports for user scope
+# UI-019: List published reports for user scope
 
 Summary: Users can browse reports for their organization only
 

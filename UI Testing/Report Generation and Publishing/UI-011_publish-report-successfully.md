@@ -1,4 +1,4 @@
-# TC-REP-003: Publish report successfully
+# UI-011: Publish report successfully
 
 Summary: Users can publish official reports to storage and database records
 

@@ -1,4 +1,4 @@
-# TC-AUTH-001: Login with valid email and password
+# SEC-001: Login with valid email and password
 
 Summary: Authorized users can access protected CLARO pages
 

@@ -1,4 +1,4 @@
-# TC-ARC-003: Delete selected report files
+# UI-021: Delete selected report files
 
 Summary: Users can remove obsolete published files
 

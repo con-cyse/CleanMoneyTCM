@@ -1,4 +1,4 @@
-# TC-ADM-004: Reject duplicate account creation
+# UI-027: Reject duplicate account creation
 
 Summary: Account provisioning prevents duplicates
 

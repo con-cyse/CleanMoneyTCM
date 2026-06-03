@@ -1,4 +1,4 @@
-# TC-SEC-003: Prevent storage access after signed URL expiry
+# SEC-008: Prevent storage access after signed URL expiry
 
 Summary: Document URLs should be time-limited
 

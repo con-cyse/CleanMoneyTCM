@@ -1,4 +1,4 @@
-# TC-REP-002: Auto-generate report fields from ledger data
+# UI-010: Auto-generate report fields from ledger data
 
 Summary: Report publishing can auto-fill values from computed ledger totals
 

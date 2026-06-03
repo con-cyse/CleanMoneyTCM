@@ -1,4 +1,4 @@
-# TC-AUTH-004: Redirect unauthenticated protected-route access
+# SEC-004: Redirect unauthenticated protected-route access
 
 Summary: Protected routes require authentication
 

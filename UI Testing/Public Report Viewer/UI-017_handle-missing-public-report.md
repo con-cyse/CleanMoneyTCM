@@ -1,4 +1,4 @@
-# TC-PUB-003: Handle missing public report
+# UI-017: Handle missing public report
 
 Summary: Public viewer handles unavailable reports clearly
 

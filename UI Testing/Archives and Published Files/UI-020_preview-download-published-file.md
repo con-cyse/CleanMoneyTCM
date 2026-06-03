@@ -1,4 +1,4 @@
-# TC-ARC-002: Preview and download published file
+# UI-020: Preview and download published file
 
 Summary: Users can inspect and download generated documents
 

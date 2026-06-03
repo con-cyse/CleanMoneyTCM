@@ -1,4 +1,4 @@
-# TC-ADM-002: Deny admin controls to non-super-admin
+# UI-025: Deny admin controls to non-super-admin
 
 Summary: Admin controls must be role restricted
 

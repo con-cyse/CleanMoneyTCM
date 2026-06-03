@@ -1,4 +1,4 @@
-# TC-REP-001: Preview financial report PDF
+# UI-009: Preview financial report PDF
 
 Summary: Users can preview generated financial reports
 

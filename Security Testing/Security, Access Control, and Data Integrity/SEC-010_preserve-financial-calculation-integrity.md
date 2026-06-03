@@ -1,4 +1,4 @@
-# TC-SEC-005: Preserve financial calculation integrity
+# SEC-010: Preserve financial calculation integrity
 
 Summary: Generated reports and balances must match ledger entries
 

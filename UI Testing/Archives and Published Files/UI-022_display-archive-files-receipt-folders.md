@@ -1,4 +1,4 @@
-# TC-ARC-004: Display archive files and receipt folders
+# UI-022: Display archive files and receipt folders
 
 Summary: Users can browse archived reports and receipt folders
 

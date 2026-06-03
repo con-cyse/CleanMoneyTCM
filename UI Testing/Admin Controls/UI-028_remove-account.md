@@ -1,4 +1,4 @@
-# TC-ADM-005: Remove user account
+# UI-028: Remove user account
 
 Summary: Super-admin can remove obsolete accounts
 

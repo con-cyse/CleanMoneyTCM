@@ -1,4 +1,4 @@
-# TC-AUTH-005: Prevent logged-in user from returning to login page
+# SEC-005: Prevent logged-in user from returning to login page
 
 Summary: Authenticated sessions route away from login
 

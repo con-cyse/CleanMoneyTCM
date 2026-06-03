@@ -1,4 +1,4 @@
-# TC-REP-005: Unpublish report
+# UI-013: Unpublish report
 
 Summary: Users can remove a published report when correction is needed
 

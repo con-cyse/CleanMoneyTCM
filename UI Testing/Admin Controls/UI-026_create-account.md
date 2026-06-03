@@ -1,4 +1,4 @@
-# TC-ADM-003: Create user account
+# UI-026: Create user account
 
 Summary: Super-admin can provision CLARO users
 

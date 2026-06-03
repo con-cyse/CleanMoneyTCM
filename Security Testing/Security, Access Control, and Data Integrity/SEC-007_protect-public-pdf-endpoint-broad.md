@@ -1,4 +1,4 @@
-# TC-SEC-002: Protect public PDF endpoint from broad data exposure
+# SEC-007: Protect public PDF endpoint from broad data exposure
 
 Summary: Public endpoint returns only explicitly published report PDFs
 

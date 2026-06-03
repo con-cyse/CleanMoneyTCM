@@ -1,4 +1,4 @@
-# TC-PUB-001: View published campus report
+# UI-015: View published campus report
 
 Summary: Public users can view published financial reports
 

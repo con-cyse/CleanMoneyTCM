@@ -1,4 +1,4 @@
-# TC-ARC-005: Delete archive folder
+# UI-023: Delete archive folder
 
 Summary: Users can manage obsolete receipt archive folders
 

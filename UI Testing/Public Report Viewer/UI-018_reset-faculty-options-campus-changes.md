@@ -1,4 +1,4 @@
-# TC-PUB-004: Reset faculty options when campus changes
+# UI-018: Reset faculty options when campus changes
 
 Summary: Public report filters remain consistent
 

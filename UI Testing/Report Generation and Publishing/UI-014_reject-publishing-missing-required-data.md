@@ -1,4 +1,4 @@
-# TC-REP-006: Reject publishing with missing required data
+# UI-014: Reject publishing with missing required data
 
 Summary: Official reports require complete certification and financial data
 

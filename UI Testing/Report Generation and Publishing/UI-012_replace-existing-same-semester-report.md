@@ -1,4 +1,4 @@
-# TC-REP-004: Replace existing same-semester report
+# UI-012: Replace existing same-semester report
 
 Summary: Publishing supports upsert/replacement for same-semester reports
 

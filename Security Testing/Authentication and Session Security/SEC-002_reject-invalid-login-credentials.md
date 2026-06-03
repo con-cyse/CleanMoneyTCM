@@ -1,4 +1,4 @@
-# TC-AUTH-002: Reject invalid login credentials
+# SEC-002: Reject invalid login credentials
 
 Summary: Invalid credentials must not create sessions
 

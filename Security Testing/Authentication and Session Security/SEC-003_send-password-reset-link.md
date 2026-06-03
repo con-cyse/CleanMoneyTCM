@@ -1,4 +1,4 @@
-# TC-AUTH-003: Send password reset link
+# SEC-003: Send password reset link
 
 Summary: Users can recover account access
 
