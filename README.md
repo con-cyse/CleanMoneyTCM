@@ -1,1 +1,65 @@
 # CleanMoneyTCM
+
+Manual test case management repository.
+
+## Security Testing
+
+- [Authentication and Session Security](Security%20Testing/Authentication%20and%20Session%20Security/)
+	- [SEC-001: Login with valid email and password](Security%20Testing/Authentication%20and%20Session%20Security/SEC-001_login-valid-email-password.md)
+	- [SEC-002: Reject invalid login credentials](Security%20Testing/Authentication%20and%20Session%20Security/SEC-002_reject-invalid-login-credentials.md)
+	- [SEC-003: Send password reset link](Security%20Testing/Authentication%20and%20Session%20Security/SEC-003_send-password-reset-link.md)
+	- [SEC-004: Redirect unauthenticated protected-route access](Security%20Testing/Authentication%20and%20Session%20Security/SEC-004_redirect-unauthenticated-protected-route-access.md)
+	- [SEC-005: Prevent logged-in users from returning to login page](Security%20Testing/Authentication%20and%20Session%20Security/SEC-005_prevent-logged-in-returning-login-page.md)
+- [Security, Access Control, and Data Integrity](Security%20Testing/Security%2C%20Access%20Control%2C%20and%20Data%20Integrity/)
+	- [SEC-006: Enforce organization data isolation](Security%20Testing/Security%2C%20Access%20Control%2C%20and%20Data%20Integrity/SEC-006_enforce-organization-data-isolation.md)
+	- [SEC-007: Protect public PDF endpoint broadly](Security%20Testing/Security%2C%20Access%20Control%2C%20and%20Data%20Integrity/SEC-007_protect-public-pdf-endpoint-broad.md)
+	- [SEC-008: Prevent storage access via signed URL](Security%20Testing/Security%2C%20Access%20Control%2C%20and%20Data%20Integrity/SEC-008_prevent-storage-access-signed-url.md)
+	- [SEC-009: Validate uploaded receipt file handling](Security%20Testing/Security%2C%20Access%20Control%2C%20and%20Data%20Integrity/SEC-009_validate-uploaded-receipt-file-handling.md)
+	- [SEC-010: Preserve financial calculation integrity](Security%20Testing/Security%2C%20Access%20Control%2C%20and%20Data%20Integrity/SEC-010_preserve-financial-calculation-integrity.md)
+	- [SEC-011: Record activity logs for sensitive actions](Security%20Testing/Security%2C%20Access%20Control%2C%20and%20Data%20Integrity/SEC-011_record-activity-logs-sensitive-actions.md)
+
+## Settings Testing
+
+- [User Settings](Settings%20Testing/User%20Settings/)
+	- [SET-001: Update username](Settings%20Testing/User%20Settings/SET-001_update-username.md)
+	- [SET-002: Reject blank username](Settings%20Testing/User%20Settings/SET-002_reject-blank-username.md)
+	- [SET-003: Request email change](Settings%20Testing/User%20Settings/SET-003_request-email-change.md)
+	- [SET-004: Change password with valid input](Settings%20Testing/User%20Settings/SET-004_change-password-valid-input.md)
+	- [SET-005: Reject mismatched or weak passwords](Settings%20Testing/User%20Settings/SET-005_reject-mismatched-weak-password.md)
+
+## UI Testing
+
+- [Dashboard, Entries and Balances](UI%20Testing/Dashboard%2C%20Entries%20and%20Balances/)
+	- [UI-001: Display dashboard for assigned organization](UI%20Testing/Dashboard%2C%20Entries%20and%20Balances/UI-001_display_dashboard_assigned_organization.md)
+	- [UI-002: Set initial balance values](UI%20Testing/Dashboard%2C%20Entries%20and%20Balances/UI-002_set_initial_balance_values.md)
+	- [UI-003: Add a single income entry](UI%20Testing/Dashboard%2C%20Entries%20and%20Balances/UI-003_add_single_income_entry.md)
+	- [UI-004: Add batch mixed entries](UI%20Testing/Dashboard%2C%20Entries%20and%20Balances/UI-004_add_batch_mixed_entries.md)
+	- [UI-005: Validate required entry fields](UI%20Testing/Dashboard%2C%20Entries%20and%20Balances/UI-005_validate_required_entry_fields.md)
+	- [UI-006: Edit entry description](UI%20Testing/Dashboard%2C%20Entries%20and%20Balances/UI-006_edit_entry_description.md)
+	- [UI-007: Delete ledger entry](UI%20Testing/Dashboard%2C%20Entries%20and%20Balances/UI-007_delete-ledger-entry.md)
+	- [UI-008: Lock dashboard report publication for semester](UI%20Testing/Dashboard%2C%20Entries%20and%20Balances/UI-008_lock-dashboard-report-publication-semester.md)
+- [Report Generation and Publishing](UI%20Testing/Report%20Generation%20and%20Publishing/)
+	- [UI-009: Preview financial report PDF](UI%20Testing/Report%20Generation%20and%20Publishing/UI-009_preview-financial-report-pdf.md)
+	- [UI-010: Auto-generate report fields from ledger data](UI%20Testing/Report%20Generation%20and%20Publishing/UI-010_auto-generate-report-fields-ledger-data.md)
+	- [UI-011: Publish report successfully](UI%20Testing/Report%20Generation%20and%20Publishing/UI-011_publish-report-successfully.md)
+	- [UI-012: Replace existing same-semester report](UI%20Testing/Report%20Generation%20and%20Publishing/UI-012_replace-existing-same-semester-report.md)
+	- [UI-013: Unpublish report](UI%20Testing/Report%20Generation%20and%20Publishing/UI-013_unpublish-report.md)
+	- [UI-014: Reject publishing when required data is missing](UI%20Testing/Report%20Generation%20and%20Publishing/UI-014_reject-publishing-missing-required-data.md)
+- [Public Report Viewer](UI%20Testing/Public%20Report%20Viewer/)
+	- [UI-015: View published campus report](UI%20Testing/Public%20Report%20Viewer/UI-015_view-published-campus-report.md)
+	- [UI-016: View published faculty report](UI%20Testing/Public%20Report%20Viewer/UI-016_view-published-faculty-report.md)
+	- [UI-017: Handle missing public report](UI%20Testing/Public%20Report%20Viewer/UI-017_handle-missing-public-report.md)
+	- [UI-018: Reset faculty options when campus changes](UI%20Testing/Public%20Report%20Viewer/UI-018_reset-faculty-options-campus-changes.md)
+- [Archives and Published Files](UI%20Testing/Archives%20and%20Published%20Files/)
+	- [UI-019: List published reports by scope](UI%20Testing/Archives%20and%20Published%20Files/UI-019_list-published-reports-scope.md)
+	- [UI-020: Preview and download published file](UI%20Testing/Archives%20and%20Published%20Files/UI-020_preview-download-published-file.md)
+	- [UI-021: Delete selected report files](UI%20Testing/Archives%20and%20Published%20Files/UI-021_delete-selected-report-files.md)
+	- [UI-022: Display archive files and receipt folders](UI%20Testing/Archives%20and%20Published%20Files/UI-022_display-archive-files-receipt-folders.md)
+	- [UI-023: Delete archive folder](UI%20Testing/Archives%20and%20Published%20Files/UI-023_delete-archive-folder.md)
+- [Admin Controls](UI%20Testing/Admin%20Controls/)
+	- [UI-024: Access admin controls as super admin](UI%20Testing/Admin%20Controls/UI-024_access-admin-controls-super-admin.md)
+	- [UI-025: Deny admin controls to non-super admin](UI%20Testing/Admin%20Controls/UI-025_deny-admin-controls-non-super-admin.md)
+	- [UI-026: Create account](UI%20Testing/Admin%20Controls/UI-026_create-account.md)
+	- [UI-027: Reject duplicate account creation](UI%20Testing/Admin%20Controls/UI-027_reject-duplicate-account-creation.md)
+	- [UI-028: Remove account](UI%20Testing/Admin%20Controls/UI-028_remove-account.md)
+	- [UI-029: End semester](UI%20Testing/Admin%20Controls/UI-029_end-semester.md)
